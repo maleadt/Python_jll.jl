@@ -1,0 +1,10 @@
+[[Python]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "098f9f6e22aa2c71c0ec208c6ff508d2717520b8"
+libc = "glibc"
+os = "linux"
+
+    [[Python.download]]
+    sha256 = "dfd299f4d151977707b1e096286af4c433ea15b9d5f99d30760452a612274843"
+    url = "https://github.com/maleadt/Python_jll.jl/releases/download/Python-v3.8.1+5/Python.v3.8.1.x86_64-linux-gnu-cxx11.tar.gz"
